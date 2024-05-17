@@ -1,6 +1,6 @@
 name: custom_grid_count_view
 description: "A flutter package that render dynamic height grid count view with swipe to action feature."
-version: 0.0.1
+version: 1.0.1
 homepage: https://github.com/subhashDev11/custom_grid_count_view
 
 environment:
